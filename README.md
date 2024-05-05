@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  🔭 I’m currently working on a Twitter Bot that posts inspirational quotes everyday.
+  🔭 I’m currently working on my own Personal Website 
  
   🌱 I’m currently learning Python, C and some web development.
 
