@@ -14,8 +14,6 @@
  
   🌱 I’m currently learning Python, C and some web development.
 
-  🏀 Fun Fact: Steph Curry has 4 career games of 50+ Pts while making 10+ 3-pointers. The rest of the NBA - EVER - has 3.
-
 </div>
 
 <div align="center"> 
