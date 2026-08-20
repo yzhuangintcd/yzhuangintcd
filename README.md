@@ -10,9 +10,9 @@
 
 <div align="center">
  
-  🔭 I’m currently working on my own Personal Website 
+  🔭 I just finish an intern at IBM :) 
  
-  🌱 I’m currently learning Python, C and some web development.
+  🌱 I’m currently learning Python, C and Web development. 
 
 </div>
 
