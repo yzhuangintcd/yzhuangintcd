@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  🔭 I just finish an intern at IBM :) 
+  🔭 I just finish an internship at IBM :) 
  
   🌱 I’m currently learning Python, C and Web development. 
 
